@@ -1,18 +1,47 @@
-### Hi there 👋
+### Hi there, my name is Ali rahimi 👋
+<br />
 
 ### I'm Front-end Developer
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning about pwa, some back-end (node.js)
 - 👯 I’m looking to collaborate on front-end dev team
 - 📫 How to reach me: alidev.r1996@gmail.com
+<br />
 
-### Skills and tools:
-![](https://camo.githubusercontent.com/a6080670a3d023627c54bd8618ac2fbd985b4adf0b74ddbefe3354dd6a3f54cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c5f352532302d2532334533344632362e7376673f267374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/2fa718383e34172f2f150e1d5da8b76f3aa9dd380ad6c107444c90ad54971ffb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353535f332532302d2532333135373242362e7376673f267374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/5637cc85b47990ffc175ca67b7ed3fa086c6d448ac46783415c6d7c994a3cc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176617363726970742532302d2532333332333333302e7376673f267374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
-![](https://camo.githubusercontent.com/698ee671e17de07b0d99c6e80ccc4483c52cbeb162eaecc15f39c4373a42309a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d2532333030374143432e7376673f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/72502b2731e3f6dab5066a31a0ad621b77aa84d8fb9a88cdeb7a10fd42aa3e4d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5461696c77696e644353532532302d2532333066313732612e7376673f267374796c653d666c6174266c6f676f3d7461696c77696e64637373266c6f676f436f6c6f723d253233333862646638)
-![](https://camo.githubusercontent.com/510a8610dec1f22dd4dde40c62c4073f1662a4df02bf6583fdfcda02d196273f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f267374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-![](https://camo.githubusercontent.com/528b1f757643ff829c7e73b02014aebc0c462f6c41cd5193b0aca9fdf93c53c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532336637663766372e7376673f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d253233343239353433)
-![]()
+### My Tech Stacks
+<table>
+		<tr>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
+		<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
+    </tr>
+  <tr>
+    <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
+      <td><code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
+    <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
+  </tr>
+		<tr>
+      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
+      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
+			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
+		</tr>
+	</table>
+<br />
+
+### library i work
+<table>
+  <tr>
+    <td><img src='https://s8.uupload.ir/files/axios_aaz3.png' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/react-query_iinu.png' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/leaflet-map_siud.jpg' width='80' height='70' /></td>
+  </tr>
+  <tr>
+    <td><img src='https://s8.uupload.ir/files/formik_dw34.png' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/react-hook-form_6udx.png' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/styled-component_vo8d.png' width='80' height='70' /></td>
+  </tr>
+</table>
