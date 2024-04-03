@@ -35,13 +35,33 @@
 ### library i work
 <table>
   <tr>
-    <td><img src='https://s8.uupload.ir/files/axios_aaz3.png' width='80' height='70' /></td>
-    <td><img src='https://s8.uupload.ir/files/react-query_iinu.png' width='80' height='70' /></td>
-    <td><img src='https://s8.uupload.ir/files/leaflet-map_siud.jpg' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/axios_aaz3.png' width='60' height='50' /></td>
+    <td><img src='https://s8.uupload.ir/files/react-query_iinu.png' width='60' height='50' /></td>
+    <td><img src='https://s8.uupload.ir/files/leaflet-map_siud.jpg' width='60' height='50' /></td>
   </tr>
   <tr>
-    <td><img src='https://s8.uupload.ir/files/formik_dw34.png' width='80' height='70' /></td>
-    <td><img src='https://s8.uupload.ir/files/react-hook-form_6udx.png' width='80' height='70' /></td>
-    <td><img src='https://s8.uupload.ir/files/styled-component_vo8d.png' width='80' height='70' /></td>
+    <td><img src='https://s8.uupload.ir/files/formik_dw34.png' width='60' height='50' /></td>
+    <td><img src='https://s8.uupload.ir/files/react-hook-form_6udx.png' width='60' height='50' /></td>
+    <td><img src='https://s8.uupload.ir/files/styled-component_vo8d.png' width='60' height='50' /></td>
   </tr>
 </table>
+
+<br/>
+
+### My project
+<table>
+	<tr>
+		<th>Repository</th>
+		<th>View Demo</th>
+	</tr>
+	<tr>
+		<td > <a href='https://github.com/alidev-r1996/tarkhine'>Tarkhine</a> </td>
+		<td> <a href='https://tarkhine-zeta.vercel.app/'> Demo</a> </td>
+	</tr>
+	<tr>
+		<td > <a href='https://github.com/alidev-r1996/todolist'>TodoList</a> </td>
+		<td > <a href='https://todolist-seven-peach.vercel.app/'> Demo</a> </td>
+	</tr>
+</table>
+
+
