@@ -63,7 +63,7 @@
 		<td > <a href='https://todolist-seven-peach.vercel.app/'> Demo</a> </td>
 	</tr>
 	<tr>
-		<td><a href='https://github.com/alidev-r1996/carrent'></a></td>
+		<td><a href='https://github.com/alidev-r1996/carrent'>Carrent</a></td>
 		<td><a href='https://carrent-green.vercel.app/'>Demo</a></td>
 	</tr>
 </table>
