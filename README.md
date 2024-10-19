@@ -66,6 +66,10 @@
 		<td><a href='https://github.com/alidev-r1996/carrent'>Carrent</a></td>
 		<td><a href='https://carrent-green.vercel.app/'>Demo</a></td>
 	</tr>
+	<tr>
+		<td><a href='https://github.com/alidev-r1996/masir'>Masir</a></td>
+		<td><a href='https://masir-nu.vercel.app/'>Demo</a></td>
+	</tr>
 </table>
 
 
