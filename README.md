@@ -53,22 +53,32 @@
 	<tr>
 		<th>Repository</th>
 		<th>View Demo</th>
+		<th>Web Version</th>
+		<th>Mobile Version</th>
 	</tr>
 	<tr>
-		<td > <a href='https://github.com/alidev-r1996/tarkhine'>Tarkhine</a> </td>
-		<td> <a href='https://tarkhine-zeta.vercel.app/'> Demo</a> </td>
+		<td align="center"> <a href='https://github.com/alidev-r1996/tarkhine'>Tarkhine</a> </td>
+		<td align="center"> <a href='https://tarkhine-zeta.vercel.app/'> Demo</a> </td>
+		<td align="center">✔</td>
+		<td align="center">✔</td>
 	</tr>
 	<tr>
-		<td > <a href='https://github.com/alidev-r1996/todolist'>TodoList</a> </td>
-		<td > <a href='https://todolist-seven-peach.vercel.app/'> Demo</a> </td>
+		<td align="center"> <a href='https://github.com/alidev-r1996/todolist'>TodoList</a> </td>
+		<td align="center"> <a href='https://todolist-seven-peach.vercel.app/'> Demo</a> </td>
+		<td align="center">✔</td>
+		<td align="center">✔</td>
 	</tr>
 	<tr>
-		<td><a href='https://github.com/alidev-r1996/carrent'>Carrent</a></td>
-		<td><a href='https://carrent-green.vercel.app/'>Demo</a></td>
+		<td align="center"><a href='https://github.com/alidev-r1996/carrent'>Carrent</a></td>
+		<td align="center"><a href='https://carrent-green.vercel.app/'>Demo</a></td>
+		<td align="center">✔</td>
+		<td align="center">✔</td>
 	</tr>
 	<tr>
-		<td><a href='https://github.com/alidev-r1996/masir'>Masir</a></td>
-		<td><a href='https://masir-nu.vercel.app/'>Demo</a></td>
+		<td align="center"><a href='https://github.com/alidev-r1996/masir'>Masir</a></td>
+		<td align="center"><a href='https://masir-nu.vercel.app/'>Demo</a></td>
+		<td align="center">✔</td>
+		<td align="center">❌</td>
 	</tr>
 </table>
 
