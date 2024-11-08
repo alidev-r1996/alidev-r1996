@@ -76,7 +76,7 @@
 	</tr>
 	<tr>
 		<td align="center"><a href='https://github.com/alidev-r1996/masir'>Masir</a></td>
-		<td align="center"><a href='https://masir-nu.vercel.app/'>Demo</a></td>
+		<td align="center"><a href='https://masir-seven.vercel.app/'>Demo</a></td>
 		<td align="center">✔</td>
 		<td align="center">❌</td>
 	</tr>
