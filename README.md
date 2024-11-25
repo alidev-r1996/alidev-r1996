@@ -64,7 +64,7 @@
 	</tr>
 	<tr>
 		<td align="center"> <a href='https://github.com/alidev-r1996/todolist'>YekTuber</a> </td>
-		<td align="center"> <a href='https://todolist-seven-peach.vercel.app/'> Demo</a> </td>
+		<td align="center"> <a href='https://yektuber.vercel.app/'> Demo</a> </td>
 		<td align="center">✔</td>
 		<td align="center">✔</td>
 	</tr>
