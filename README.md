@@ -45,7 +45,7 @@
 	</tr>
 	<tr>
 		<td align="center"> <a href='https://github.com/alidev-r1996/Blog'>Blog App</a> </td>
-		<td align="center"> <a href='https:/alidevr1996.ir/'> Demo</a> </td>
+		<td align="center"> <a href='https://alidevr1996.ir/'> Demo</a> </td>
 		<td align="center">✔</td>
 		<td align="center">✔</td>
 	</tr>
