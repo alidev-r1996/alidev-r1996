@@ -32,19 +32,6 @@
 	</table>
 <br />
 
-### library i work
-<table>
-  <tr>
-    <td><img src='https://s8.uupload.ir/files/axios_aaz3.png' width='60' height='50' /></td>
-    <td><img src='https://s8.uupload.ir/files/react-query_iinu.png' width='60' height='50' /></td>
-    <td><img src='https://s8.uupload.ir/files/leaflet-map_siud.jpg' width='60' height='50' /></td>
-  </tr>
-  <tr>
-    <td><img src='https://s8.uupload.ir/files/formik_dw34.png' width='60' height='50' /></td>
-    <td><img src='https://s8.uupload.ir/files/react-hook-form_6udx.png' width='60' height='50' /></td>
-    <td><img src='https://s8.uupload.ir/files/styled-component_vo8d.png' width='60' height='50' /></td>
-  </tr>
-</table>
 
 <br/>
 
