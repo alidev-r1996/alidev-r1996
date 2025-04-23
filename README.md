@@ -44,6 +44,18 @@
 		<th>Mobile Version</th>
 	</tr>
 	<tr>
+		<td align="center"> <a href='https://github.com/alidev-r1996/tarkhine](https://github.com/alidev-r1996/Blog'>Blog App</a> </td>
+		<td align="center"> <a href='https:/alidevr1996.ir/'> Demo</a> </td>
+		<td align="center">✔</td>
+		<td align="center">✔</td>
+	</tr>
+	<tr>
+		<td align="center"> <a href='https://github.com/alidev-r1996/miss-merchant'>Merchant Portfolio</a> </td>
+		<td align="center"> <a href='https://miss-merchant.vercel.app/'> Demo</a> </td>
+		<td align="center">✔</td>
+		<td align="center">✔</td>
+	</tr>
+	<tr>
 		<td align="center"> <a href='https://github.com/alidev-r1996/tarkhine'>Tarkhine</a> </td>
 		<td align="center"> <a href='https://tarkhine-zeta.vercel.app/'> Demo</a> </td>
 		<td align="center">✔</td>
