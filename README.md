@@ -45,7 +45,7 @@
 	</tr>
 	<tr>
 		<td align="center"> <a href='https://github.com/alidev-r1996/caffee-darchin'>Cafe Darchin</a> </td>
-		<td align="center"> <a href='https://caffee-darchin.vercel.app/'> Demo</a> </td>
+		<td align="center"> <a href='https://cafe-darchin.vercel.app/'> Demo</a> </td>
 		<td align="center">✔</td>
 		<td align="center">✔</td>
 	</tr>
