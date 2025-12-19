@@ -1,96 +1,114 @@
-### Hi there, my name is Ali rahimi 👋
-<br />
+## 👋 Hi, I'm Ali Rahimi
 
-### I'm Front-end Developer
+### Front-End Developer | Next.js & React Specialist
 
-- 🌱 I’m currently learning about pwa, some back-end (node.js)
-- 👯 I’m looking to collaborate on front-end dev team
-- 📫 How to reach me: alidev.r1996@gmail.com
-<br />
+I build **production-ready, scalable web applications** with a strong focus on **Next.js**, modern React patterns, and real-world business needs.
 
-### My Tech Stacks
+I'm open to **full-time opportunities** and **freelance projects** where clean architecture, performance, and user experience matter.
+
+---
+
+## 💼 What I Can Help You With
+
+- 🚀 Building modern **Next.js applications** (App Router)
+- 🔐 Auth-protected systems (Admin / User panels)
+- 🧑‍💼 Role-based access control (RBAC)
+- 📱 Fully responsive & mobile-first UI
+- 🧩 Scalable front-end architecture
+- ⚡ Performance optimization & best practices
+- 🛠 Converting designs into pixel-perfect UI
+
+---
+
+## 🧠 Tech Stack
+
 <table>
-		<tr>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
-		<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code></td>
-    </tr>
   <tr>
-    <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
-      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
-      <td><code><img width="30" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" title="Next.js"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/></code></td>
-    <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/></code></td>
+    <td><b>Core</b></td>
+    <td>JavaScript (ES6+), TypeScript, HTML, CSS</td>
   </tr>
-		<tr>
-      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
-      <td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
-			<td><code><img width="30" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code></td>
-		</tr>
-	</table>
-<br />
-
-
-<br/>
-
-### My project
-<table>
-	<tr>
-		<th>Repository</th>
-		<th>View Demo</th>
-		<th>Web Version</th>
-		<th>Mobile Version</th>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/auto-rent'>Car Rental</a> </td>
-		<td align="center"> <a href='https://autorent-ali.vercel.app/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/caffee-darchin'>Cafe Darchin</a> </td>
-		<td align="center"> <a href='https://cafe-darchin.ir/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/Blog'>Blog App</a> </td>
-		<td align="center"> <a href='https://alidevr1996.ir/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/miss-merchant'>Merchant Portfolio</a> </td>
-		<td align="center"> <a href='https://miss-merchant.vercel.app/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/tarkhine'>Tarkhine</a> </td>
-		<td align="center"> <a href='https://tarkhine-zeta.vercel.app/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"> <a href='https://github.com/alidev-r1996/yektuber'>YekTuber</a> </td>
-		<td align="center"> <a href='https://yektuber.vercel.app/'> Demo</a> </td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"><a href='https://github.com/alidev-r1996/carrent'>Carrent</a></td>
-		<td align="center"><a href='https://carrent-green.vercel.app/'>Demo</a></td>
-		<td align="center">✔</td>
-		<td align="center">✔</td>
-	</tr>
-	<tr>
-		<td align="center"><a href='https://github.com/alidev-r1996/masir'>Masir</a></td>
-		<td align="center"><a href='https://masir-seven.vercel.app/'>Demo</a></td>
-		<td align="center">✔</td>
-		<td align="center">❌</td>
-	</tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td>React.js, Next.js, Electron.js</td>
+  </tr>
+  <tr>
+    <td><b>Styling</b></td>
+    <td>Tailwind CSS, Framer-motion</td>
+  </tr>
+  <tr>
+    <td><b>State</b></td>
+    <td>Redux Toolkit, Zustand, Context-Api</td>
+  </tr>
+  <tr>
+    <td><b>Backend & DB</b></td>
+    <td>Node.js, express, fastify (basic), MongoDB, mySQL, sqlite</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, Postman</td>
+  </tr>
 </table>
 
+---
 
+## 📌 Selected Projects
+
+> Real-world projects with business logic, dashboards, and production deployment
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Links</th>
+  </tr>
+
+  <tr>
+    <td><b> Auto Rent</b></td>
+    <td>
+    	portfolio car rental app, ready to real-business (full-stack)
+    </td>
+    <td>
+      <a href="https://github.com/alidev-r1996/auto-rent">Repository</a><br/>
+      <a href="https://autorent-ali.vercel.app/">Live Demo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b> Cafe Darchin</b></td>
+    <td>
+      Real business Restaurant Website (full-stack)
+    </td>
+    <td>
+      <a href="https://github.com/alidev-r1996/caffee-darchin">Repository</a><br/>
+      <a href="https://cafe-darchin.ir/">Live Demo</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b> SoftB</b></td>
+    <td>
+      Business Application Website, and SEO-friendly pages
+    </td>
+    <td>
+      <a href="https://github.com/alidev-r1996/softb">Repository</a><br/>
+      <a href="https://softb.co/">Live Demo</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🤝 Open For
+
+- ✅ Front-End / Full-Stack positions
+- ✅ Freelance & contract-based projects
+- ✅ Long-term collaboration
+
+📫 **Contact:**  
+**Email:** alidev.r1996@gmail.com  
+**GitHub:** https://github.com/alidev-r1996
+
+---
+
+⭐ If you like my work, feel free to star the repositories  
+💬 I'm always open to new opportunities and collaborations
