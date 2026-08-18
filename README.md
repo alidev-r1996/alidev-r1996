@@ -158,6 +158,53 @@ Problem
 
 ---
 
+<!-- ================= H Fashion ================= -->
+
+<div align="center">
+
+## 🛍️ H Fashion
+
+### Full-Stack E-Commerce Platform
+
+</div>
+
+```text
+Problem
+└─ Build a scalable e-commerce experience
+   with authentication and business workflows.
+```
+
+### ✨ Highlights
+
+```text
+🔐 Authentication
+👥 Role-Based Access Control
+🛒 E-Commerce Workflows
+📦 Product Management
+💳 Payment Flow
+📱 Responsive Experience
+```
+
+**Built with**
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres" />
+
+</p>
+
+<p>
+
+<a href="https://hmenswear.ir">
+<img src="https://img.shields.io/badge/🚀_LAUNCH_PROJECT-Vira_Tahrir-2563eb?style=for-the-badge" />
+</a>
+
+</p>
+
+<br />
+
+---
+
 <!-- ================= CAFE DARCHIN ================= -->
 
 <div align="center">
